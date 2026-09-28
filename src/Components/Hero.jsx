@@ -26,7 +26,7 @@ const Hero = () => {
 
         {/* Right Side: Text Context */}
         <div style={styles.contentWrapper}>
-          <h1 style={styles.mainHeading}>Jenkins</h1>
+          <h1 style={styles.mainHeading}> Zaid Ali</h1>
           <h3 style={styles.subHeading}>Build great things at any scale</h3>
           
           <p style={styles.description}>
